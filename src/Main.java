@@ -2,6 +2,9 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
+        //Elkin Yamith Almonacid Lopez
+        //Ejercicio que simula el funcionamiento de una cuenta bancaria a partir de metodos
+        //09-09-2024
         int op=0;
         double saldo;
         String titular, numeroCuenta;
